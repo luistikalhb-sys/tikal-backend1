@@ -140,3 +140,4 @@ app.post('/api/businesses', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Tikal backend running on port ${PORT}`);
 });
+
